@@ -3,11 +3,11 @@
 
 ## DESCRIPTION | 项目简介
 The project is a **lightweight agent evaluaction lite benchmark**, without any enterprise internal raw data, tasks or private resources.
-Based on OSWorld public benchmark methodology and reshaped public resources tasks, there are **120 self-built simulated desktop tasks**.
+Based on OSWorld public benchmark methodology and reshaped public resources tasks, the project aims to build **120 self-built simulated desktop tasks**.
 It builds a complete implementable universal GUI agent evaluation system adapted to hybrid automated and manual assessment for desktop-based Agents.
 
 本项目为**合规自研Lite版Agent评测作品集**，无任何企业内部原始数据、内部任务与私有素材；
-依托OSWorld公开基准方法论，融合公开资料改写任务 + **120条全自建仿真桌面任务**，搭建完整可落地的通用GUI智能体评测体系，适配桌面端Agent自动化+人工混合测评。
+依托OSWorld公开基准方法论，融合公开资料改写任务，本项目计划构建 **120条全自建仿真桌面任务**，搭建完整可落地的通用GUI智能体评测体系，适配桌面端Agent自动化+人工混合测评。
 
 **Resources of tasks**: `self built simulated tasks/ reshaped public task resources`. Comply with compliance specifications for independent dataset production throughout the entire process.
 
